@@ -1,13 +1,13 @@
 [package]
-name = "redpen"
+name = "red_pen"
 version = "0.1.0"
 edition = "2021"
-description = "Reserved name for a teensy side-project I'm working on"
+description = "similar name to a teensy project I'm working on"
 
 documentation = "https://docs.rs/redpen"
-homepage = "https://github.com/scooter-dangle/redpen"
+homepage = "https://crates.io/crates/redpen"
 license = "Apache-2.0"
-repository = "https://github.com/scooter-dangle/redpen"
+repository = "https://github.com/scooter-dangle/redpen/tree/red_pen"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
